@@ -46,4 +46,3 @@ int main()
 	 while(fabs(err)>0.01);
 	 printf("\nRequired root is: %f", Xm);
 }
-# NumericalMethod
